@@ -1,7 +1,12 @@
 {
   "name": "cassandra-orm",
   "version": "0.0.1",
-  "dependencies": {},
+  "dependencies": {
+    "cassandra-driver": "^2.2.2",
+    "check-types": "^4.2.0",
+    "lodash": "^3.10.1",
+    "sync": "^0.2.5"
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "author": {
