@@ -1,0 +1,49 @@
+{
+  "name": "cassandra-orm",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "author": {
+    "name": "Soedomoto",
+    "email": "soedomoto@gmail.com"
+  },
+  "scripts": {},
+  "license": "LGPL-3.0",
+  "description": "Cassandra ORM for express, restify, hapi, koa and raw node",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soedomoto/cassandra-orm.git"
+  },
+  "main": "index.js",
+  "homepage": "https://github.com/soedomoto/cassandra-orm",
+  "bugs": {
+    "url": "https://github.com/soedomoto/cassandra-orm/issues"
+  },
+  "keywords": [
+    "cassandra",
+    "orm",
+    "model",
+    "db",
+    "node",
+    "nodejs",
+    "express",
+    "expressjs",
+    "restify",
+    "hapi",
+    "hapijs",
+    "koa",
+    "koajs",
+    "javascript",
+    "js"
+  ],
+  "engine": "node >= 0.10.x",
+  "maintainers": [
+    {
+      "name": "Soedomoto",
+      "email": "soedomoto@gmail.com"
+    }
+  ],
+  "dist": {},
+  "directories": {}
+}
